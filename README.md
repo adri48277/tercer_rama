@@ -2,7 +2,7 @@
 <h2>Grupo (el rejunte)</h2>
 <h2>1x100to</h2>
 <h3>Letra de la canción</h3>
-<h4>Me queda un por ciento
+<h4>Me queda 1%
 
 Y lo usaré solo para decirte lo mucho que lo siento
 
@@ -46,7 +46,7 @@ Ya no te duelen las cicatrices
 
 Y yo pensando si decirte que
 
-Me queda un por ciento
+Me queda 1%
 
 Y lo usaré solo para decirte lo mucho que lo siento
 
@@ -86,7 +86,7 @@ Las morritas texteándome, ey
 
 Que dónde es la peda hoy, pero
 
-Me queda un por ciento
+Me queda 1%
 
 Y lo usaré solo para decirte lo mucho que lo siento
 
@@ -98,5 +98,4 @@ Eso de que me vieron feliz no es cierto, ey
 
 Y esto es Grupo Frontera
 
-Y el compa Bad Bunny</h4>
-
+Y el Bad Bunny</h4>
